@@ -1,0 +1,13 @@
+programa troca
+
+var A: Real
+    B: Real
+
+início
+	leia A, B
+	guarda <- A
+	A = B
+	B = guarda
+
+	escreva A e B
+FIM
