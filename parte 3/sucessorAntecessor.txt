@@ -1,0 +1,13 @@
+programa sucessorAntecessor
+
+var
+	valor: inteiro
+
+início
+	leia valor
+
+	sucessor = valor + 1
+	antecessor = valor - 1
+
+	escreva sucessor, antecessor
+FIM

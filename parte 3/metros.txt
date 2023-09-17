@@ -1,0 +1,12 @@
+programa metros
+
+var 
+	pes: real
+
+Início
+	leia pes
+	
+	metros <- pes * 0.3048
+	
+	escreva metros
+FIM
