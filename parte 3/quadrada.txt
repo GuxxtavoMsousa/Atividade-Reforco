@@ -1,0 +1,11 @@
+programa quadrada
+
+var 
+	numero: inteiro
+
+início
+	leia numero
+	quadrada <- numero * numero
+
+	escreva quadrada
+FIM
