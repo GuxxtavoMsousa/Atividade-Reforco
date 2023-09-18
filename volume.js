@@ -8,6 +8,6 @@ var volume;
 raio = prompt('Digite o raio: ')
 altura = prompt('Digite a altura: ')
 
-volume = pi * raio ^ 2 * altura
+volume = pi * raio ** 2 * altura
 
 console.log(`O volume é: ${volume}`)
